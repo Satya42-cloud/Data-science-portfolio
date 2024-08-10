@@ -4,7 +4,7 @@
 📍 Hyderabad, India
 📧 Email: satyajeetswain168@gmail.com
 🔗 LinkedIn: Linkedin-Satya
-👨‍💻 GitHub: Satya
+👨‍💻 GitHub: Satya42-cloud
 
 About Me 🌐
 👋 Hi there! I'm Satya, a passionate and enthusiastic data scientist with a love for unraveling complex data problems and turning raw information into actionable insights. I specialize in Statistics, Python, Machine learning, Tableau, power BI, statistical analysis, Statistical visualization, Data mining, Model deployment, Model validation, SPSS, and SQL. I'm constantly eager to explore new techniques and tools in the world of data science.
