@@ -5,7 +5,7 @@
 ###  📍 **Hyderabad, India**
 ### 📧 **Email:** satyajeetswain168@gmail.com
 ### 🔗 **LinkedIn:** https://bit.ly/3AkEtNk
-### 👨‍💻 **GitHub:** Satya42-cloud
+### 👨‍💻 **GitHub:** https://tinyurl.com/2jzftak9
 
 
 ### About Me 🌐
