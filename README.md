@@ -1,13 +1,16 @@
-# Data-science-portfolio
-## 👋 Hello, I'm Satya!
+# 👋 Hello, I'm Satya!
+
 ## 🚀 Data Scientist/Data Analyst enthusiasm
+
 #### 📍 **Hyderabad, India**
 #### 📧 **Email:** satyajeetswain168@gmail.com
 #### 🔗 **LinkedIn:** Linkedin-Satya
 #### 👨‍💻 **GitHub:** Satya42-cloud
 
+
 ### About Me 🌐
 👋 Hi there! I'm Satya, a passionate and enthusiastic data scientist with a love for unraveling complex data problems and turning raw information into actionable insights. I specialize in Statistics, Python, Machine learning, Tableau, power BI, statistical analysis, Statistical visualization, Data mining, Model deployment, Model validation, SPSS, and SQL. I'm constantly eager to explore new techniques and tools in the world of data science.
+
 
 ## Experience 🌟
 #### **Internship:** ICMR - National Institute for Research in Environmental Health
@@ -26,6 +29,7 @@ Data Analysis: Advanced techniques in statistical analysis
 
 ### Tools: 
 Python, R, SPSS, Excel
+
 
 #### Project: Prevalence of Non-Communicable Diseases and Associated Risk Factors among Older Adults in India**
 #### Institution: Utkal University**
@@ -50,9 +54,11 @@ This project aimed to explore the prevalence of non-communicable diseases (NCDs)
 ### Tools: 
 Python, Scikit-learn, Pandas
 
+
 ## Education 🎓
 - **Masters of Science in Statistics**, Utkal University
 - **Bachelors of Science in Statistics**, Utkal University
+
 
 ## Certifications 📜
 Internship in Bio- Statistics and Bio- Informatics Departement at ICMR.
