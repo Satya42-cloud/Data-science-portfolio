@@ -31,7 +31,7 @@ Data Analysis: Advanced techniques in statistical analysis
 Python, R, SPSS, Excel
 
 
-#### Project: Prevalence of Non-Communicable Diseases and Associated Risk Factors among Older Adults in India**
+#### Project: Prevalence of Non-Communicable Diseases and Associated Risk Factors among Older Adults in India
 #### Institution: Utkal University
 #### Duration: February 2024 - May 2024
 
