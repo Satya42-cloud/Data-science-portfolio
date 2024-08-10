@@ -38,15 +38,15 @@ In this repository, you’ll find the methodologies and results from my internsh
 This project aimed to explore the prevalence of non-communicable diseases (NCDs) among older adults in India using machine learning techniques. Utilizing the LASI dataset, we employed various supervised learning algorithms to classify and analyze the data.
 
 ### Key Achievements:
-Machine Learning Models: Applied multiple supervised machine learning algorithms to classify respondents with NCDs.
-Performance: Achieved 70% accuracy with logistic regression, the highest among the evaluated models.
-Risk Factor Identification: Identified significant risk factors for NCDs, including:
-Geographic Region: South India
-Gender: Female
-Age: Over 45 years
-Family History: Presence of NCDs in the family
-Physical Metrics: High BMI, high Waist-Hip ratio
-Lifestyle Factors: Alcohol and tobacco use
+**Machine Learning Models: Applied multiple supervised machine learning algorithms to classify respondents with NCDs.**
+**Performance: Achieved 70% accuracy with logistic regression, the highest among the evaluated models.**
+**Risk Factor Identification: Identified significant risk factors for NCDs, including:**
+**Geographic Region: South India**
+**Gender: Female**
+**Age: Over 45 years**
+**Family History: Presence of NCDs in the family**
+**Physical Metrics: High BMI, high Waist-Hip ratio**
+**Lifestyle Factors: Alcohol and tobacco use**
 ### Skills & Tools:
 Machine Learning: Supervised algorithms
 Data Analysis: Feature selection and model evaluation
