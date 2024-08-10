@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist/Data Analyst enthusiasm
 
-### 📍 **Hyderabad, India**
+###  📍 **Hyderabad, India**
 ### 📧 **Email:** satyajeetswain168@gmail.com
 ### 🔗 **LinkedIn:** https://bit.ly/3AkEtNk
 ### 👨‍💻 **GitHub:** Satya42-cloud
