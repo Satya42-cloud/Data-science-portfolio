@@ -2,10 +2,10 @@
 
 ## 🚀 Data Scientist/Data Analyst enthusiasm
 
-#### 📍 **Hyderabad, India**
-#### 📧 **Email:** satyajeetswain168@gmail.com
-#### 🔗 **LinkedIn:** Linkedin-Satya
-#### 👨‍💻 **GitHub:** Satya42-cloud
+### 📍 **Hyderabad, India**
+### 📧 **Email:** satyajeetswain168@gmail.com
+### 🔗 **LinkedIn:** Linkedin-Satya
+### 👨‍💻 **GitHub:** Satya42-cloud
 
 
 ### About Me 🌐
@@ -32,8 +32,8 @@ Python, R, SPSS, Excel
 
 
 #### Project: Prevalence of Non-Communicable Diseases and Associated Risk Factors among Older Adults in India**
-#### Institution: Utkal University**
-#### Duration: February 2024 - May 2024**
+#### Institution: Utkal University
+#### Duration: February 2024 - May 2024
 
 ### Overview:
 This project aimed to explore the prevalence of non-communicable diseases (NCDs) among older adults in India using machine learning techniques. Utilizing the LASI dataset, we employed various supervised learning algorithms to classify and analyze the data.
