@@ -25,10 +25,15 @@ During my internship at the ICMR - National Institute for Research in Environmen
 - **Collaboration:** Worked closely with research teams to generate insights into socio-economic disparities and their broader implications.
 
 ### Skills & Tools:
-Data Analysis: Advanced techniques in statistical analysis
+- **Data Analysis:** Advanced techniques in statistical analysis.
+- **Python:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras.
+- **Machine Learning:** Linnear regression, Logistic regression, Decision tree, Random Forest, XGBoost, LGBM, KNN, SVM, PCA, t-SNE.
+- **Data Mining:** Natural Language Processing, Naive Bayes, Emotional Mining.
+- **Artificial Intelligence:** ANN, CNN.
+- **Statistics:** Measure of central tendency and dispersion, Correlation and Regression analysis, Hypothesis testing, Time series analysis.
 
 ### Tools: 
-Python, R, SPSS, Excel
+Python, R, SPSS, Excel, SQL, Tableau, ChatGPT
 
 
 #### Project: Prevalence of Non-Communicable Diseases and Associated Risk Factors among Older Adults in India
